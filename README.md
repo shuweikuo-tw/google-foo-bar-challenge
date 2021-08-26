@@ -5,7 +5,7 @@ Challenge | Level 1 | Level 2 | Level 3| Level 4 | Level 5
 | --- | --- | --- | --- | ---- | -----
 3| &nbsp; | &nbsp;| Fuel Injection Perfection | &nbsp; | 
 2| &nbsp; | Elevator Maintenance | Bomb baby | Running with bunnies |     
-1| Braille-translation| Numbers Station<br /> Coded Messages | Prepare the Bunnies' Escape | Bringing a Gun to a <br /> Trainer Fight |       
+1| Braille-translation| Numbers Station<br /> Coded Messages | Prepare the Bunnies' Escape | Bringing a Gun to a <br /> Trainer Fight |   Dodge the Lasers!    
 
 
 ## LEVEL 1
@@ -31,3 +31,6 @@ There are a lot of difficult things about being undercover as Commander Lambda's
 
 ## Level 4  
 Excellent! You've destroyed Commander Lambda's doomsday device and saved Bunny Planet! But there's one small problem: the LAMBCHOP was a wool-y important part of her space station, and when you blew it up, you triggered a chain reaction that's tearing the station apart. Can you rescue the imprisoned bunnies and escape before the entire thing explodes?
+
+## Level 5
+Your planned escape route - and your backup route, and your extra-backup route - have all been blocked by debris from the space station or Commander Lambda's starfighters. Your only remaining option is to try deep space, and to boldly go where no bunny has gone before.
