@@ -1,3 +1,5 @@
+#!/usr/bin/env python2.7
+
 testers = ["code", "Braille", "The quick brown fox jumps over the lazy dog",]
 import re
 

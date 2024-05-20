@@ -1,4 +1,7 @@
-#Running with bunnies
+#!/usr/bin/env python2.7
+
+
+#running-with-bunnies
 
 from bisect import bisect_left, bisect_right
 

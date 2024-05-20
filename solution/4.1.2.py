@@ -1,3 +1,6 @@
+#!/usr/bin/env python2.7
+
+#running-with-bunnies
 def getless(row, dajavu):
   num = {'index':0, 'cost': row[0],'dajavu': dajavu}
   for i, node in enumerate(row):

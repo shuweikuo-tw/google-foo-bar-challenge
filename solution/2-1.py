@@ -1,3 +1,6 @@
+#!/usr/bin/env python2.7
+
+
 def startFinding(l ,t):
   s = 0
   endPoint = 0

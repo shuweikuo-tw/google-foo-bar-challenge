@@ -1,3 +1,6 @@
+#!/usr/bin/env python2.7
+
+
 class bcolors:
   HEADER = '\033[95m'
   OKBLUE = '\033[94m'
@@ -69,7 +72,7 @@ class graphic:
       try:
         next = float('inf')
         index = self.indexof(self.fromto)
-        print 'iindex',index
+        print('iindex',index)
         if len(index) == 1:
           next = list(index)[0]
         else:
@@ -78,23 +81,23 @@ class graphic:
             if next not in self.dajavu:
               break
         if next != float('inf'):
-          print 'next',next
+          print('next',next)
           self.dajavu.add(next)
           c += self.costs[next]
           self.fromto = next
         print(self.fromto,self.distances)
       except KeyError:
-        print 'KeyError'
+        print('KeyError')
         return self.dajavu
       except RuntimeError:
-        print 'RuntimeError'
+        print('RuntimeError')
         return self.dajavu
       else:
         if len(self.dajavu) == self.edge or c > self.budget:
-          print 'self.dajavu',self.dajavu,c
+          print('self.dajavu',self.dajavu,c)
           return sorted(list(self.dajavu))
         else:
-          print 'self.dajavu',self.dajavu,c
+          print('self.dajavu',self.dajavu,c)
 
           continue
 

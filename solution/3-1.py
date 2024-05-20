@@ -1,3 +1,6 @@
+#!/usr/bin/env python2.7
+
+
 def solution(m):
   w, h = len(m[0]), len(m)
   s_min = 401
@@ -54,4 +57,4 @@ def modified_maps(m):
         copy = [[col for col in row] for row in m]
         yield copy
 l = [[0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 0], [0, 0, 0, 0, 0, 0], [0, 1, 1, 1, 1, 1], [0, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0]]
-print solution(l)
+print(solution(l))
