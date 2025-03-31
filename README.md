@@ -3,9 +3,9 @@ My journey with Google footer coding challenges.
 
 Challenge | Level 1 | Level 2 | Level 3| Level 4 | Level 5
 | --- | --- | --- | --- | ---- | -----
-3| &nbsp; | &nbsp;| Fuel Injection Perfection | &nbsp; | 
-2| &nbsp; | Elevator Maintenance | Bomb baby | Running with bunnies |     
-1| Braille-translation| Numbers Station<br /> Coded Messages | Prepare the Bunnies' Escape | Bringing a Gun to a <br /> Trainer Fight |   Dodge the Lasers!    
+1| Braille-translation | Elevator Maintenance| Fuel Injection Perfection | Running with bunnies | Dodge the Lasers!    
+2| &nbsp; | Numbers Station<br /> Coded Messages | Bomb baby | Bringing a Gun to a <br /> Trainer Fight |     
+3| &nbsp; | &nbsp; | Prepare the Bunnies' Escape | &nbsp; | 
 
 
 ## LEVEL 1
